@@ -1,3 +1,8 @@
+'''
+HW02
+Ryan Siu and Edward Luo
+'''
+
 from random import randint
 
 CLASSES = {
